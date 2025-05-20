@@ -169,6 +169,9 @@ function showFinalResults() {
   const form = document.getElementById("quizForm");
   const lang = document.getElementById("language").value;
   
+  // Añadir la clase para el efecto de fondo
+  document.body.classList.add('quiz-completed');
+  
   // Mostrar mensaje de finalización
   const congratsMessage = lang === 'es' 
     ? "🏆 Resultados del Cuestionario"
