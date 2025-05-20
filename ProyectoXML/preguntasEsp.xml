@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "dtd.dtd">
+<test>
+  <question id="1">
+    <wording>¿Cuántas Ligas ha ganado el Real Madrid?</wording>
+    <choices>
+      <choice correct="yes">35</choice>
+      <choice>33</choice>
+      <choice>36</choice>
+      <choice>32</choice>
+    </choices>
+  </question>
+  <question id="2">
+    <wording>¿Quién es el máximo goleador histórico de La Liga?</wording>
+    <choices>
+      <choice correct="yes">Lionel Messi</choice>
+      <choice>Cristiano Ronaldo</choice>
+      <choice>Raúl</choice>
+      <choice>Telmo Zarra</choice>
+    </choices>
+  </question>
+  <question id="3">
+    <wording>¿Qué equipo ha descendido más veces a Segunda División?</wording>
+    <choices>
+      <choice correct="yes">Real Betis</choice>
+      <choice>Espanyol</choice>
+      <choice>Sporting de Gijón</choice>
+      <choice>Granada</choice>
+    </choices>
+  </question>
+  <question id="4">
+    <wording>¿Cuál es el estadio con mayor capacidad en La Liga?</wording>
+    <choices>
+      <choice correct="yes">Camp Nou</choice>
+      <choice>Santiago Bernabéu</choice>
+      <choice>Metropolitano</choice>
+      <choice>Benito Villamarín</choice>
+    </choices>
+  </question>
+  <question id="5">
+    <wording>¿Quién ha jugado más partidos en La Liga?</wording>
+    <choices>
+      <choice correct="yes">Andoni Zubizarreta</choice>
+      <choice>Raúl</choice>
+      <choice>Xavi</choice>
+      <choice>Iker Casillas</choice>
+    </choices>
+  </question>
+  <question id="6">
+    <wording>¿Cuál es el único club que ha participado en todas las temporadas de La Liga?</wording>
+    <choices>
+      <choice correct="yes">Real Madrid</choice>
+      <choice>Barcelona</choice>
+      <choice>Athletic Club</choice>
+      <choice>Atlético de Madrid</choice>
+    </choices>
+  </question>
+  <question id="7">
+    <wording>¿Qué equipo ha ganado La Liga sin perder ningún partido?</wording>
+    <choices>
+      <choice correct="yes">Real Madrid</choice>
+      <choice>Barcelona</choice>
+      <choice>Athletic Club</choice>
+      <choice>Ninguno</choice>
+    </choices>
+  </question>
+  <question id="8">
+    <wording>¿Cuántas Ligas ha ganado el FC Barcelona?</wording>
+    <choices>
+      <choice correct="yes">27</choice>
+      <choice>25</choice>
+      <choice>28</choice>
+      <choice>26</choice>
+    </choices>
+  </question>
+  <question id="9">
+    <wording>¿Qué equipo logró el récord de puntos en una temporada?</wording>
+    <choices>
+      <choice correct="yes">Real Madrid (2011-12)</choice>
+      <choice>Barcelona (2014-15)</choice>
+      <choice>Atlético de Madrid (2013-14)</choice>
+      <choice>Valencia (2003-04)</choice>
+    </choices>
+  </question>
+  <question id="10">
+    <wording>¿Quién fue el primer campeón de La Liga?</wording>
+    <choices>
+      <choice correct="yes">Barcelona</choice>
+      <choice>Real Madrid</choice>
+      <choice>Athletic Club</choice>
+      <choice>Real Sociedad</choice>
+    </choices>
+  </question>
+  <question id="11">
+    <wording>¿En qué año comenzó La Liga?</wording>
+    <choices>
+      <choice correct="yes">1929</choice>
+      <choice>1930</choice>
+      <choice>1928</choice>
+      <choice>1931</choice>
+    </choices>
+  </question>
+  <question id="12">
+    <wording>¿Qué equipo ha ganado La Liga con más diferencia de puntos?</wording>
+    <choices>
+      <choice correct="yes">Barcelona (2012-13)</choice>
+      <choice>Real Madrid (2011-12)</choice>
+      <choice>Atlético de Madrid (2013-14)</choice>
+      <choice>Valencia (2001-02)</choice>
+    </choices>
+  </question>
+  <question id="13">
+    <wording>¿Qué equipo es conocido como "los colchoneros"?</wording>
+    <choices>
+      <choice correct="yes">Atlético de Madrid</choice>
+      <choice>Rayo Vallecano</choice>
+      <choice>Granada</choice>
+      <choice>Sevilla</choice>
+    </choices>
+  </question>
+  <question id="14">
+    <wording>¿Qué jugador tiene más asistencias en la historia de La Liga?</wording>
+    <choices>
+      <choice correct="yes">Lionel Messi</choice>
+      <choice>Xavi</choice>
+      <choice>Iniesta</choice>
+      <choice>Modric</choice>
+    </choices>
+  </question>
+  <question id="15">
+    <wording>¿Qué equipo ganó La Liga en 2021?</wording>
+    <choices>
+      <choice correct="yes">Atlético de Madrid</choice>
+      <choice>Real Madrid</choice>
+      <choice>Barcelona</choice>
+      <choice>Sevilla</choice>
+    </choices>
+  </question>
+  <question id="16">
+    <wording>¿Qué jugador marcó más goles en una sola temporada?</wording>
+    <choices>
+      <choice correct="yes">Lionel Messi (50 goles)</choice>
+      <choice>Cristiano Ronaldo (48 goles)</choice>
+      <choice>Telmo Zarra (38 goles)</choice>
+      <choice>Hugo Sánchez (38 goles)</choice>
+    </choices>
+  </question>
+  <question id="17">
+    <wording>¿Qué club ganó su primera liga en 2000?</wording>
+    <choices>
+      <choice correct="yes">Deportivo de La Coruña</choice>
+      <choice>Sevilla</choice>
+      <choice>Villarreal</choice>
+      <choice>Betis</choice>
+    </choices>
+  </question>
+  <question id="18">
+    <wording>¿Cuántos equipos participan actualmente en La Liga?</wording>
+    <choices>
+      <choice correct="yes">20</choice>
+      <choice>18</choice>
+      <choice>22</choice>
+      <choice>16</choice>
+    </choices>
+  </question>
+  <question id="19">
+    <wording>¿Qué equipo ha logrado el triplete en una temporada (liga, copa y Champions)?</wording>
+    <choices>
+      <choice correct="yes">Barcelona</choice>
+      <choice>Real Madrid</choice>
+      <choice>Valencia</choice>
+      <choice>Sevilla</choice>
+    </choices>
+  </question>
+  <question id="20">
+    <wording>¿Qué equipo juega sus partidos en San Mamés?</wording>
+    <choices>
+      <choice correct="yes">Athletic Club</choice>
+      <choice>Real Sociedad</choice>
+      <choice>Osasuna</choice>
+      <choice>Deportivo</choice>
+    </choices>
+  </question>
+</test>
