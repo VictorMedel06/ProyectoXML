@@ -129,6 +129,7 @@ function evaluateAnswer() {
   let selected = false;
   let userAnswer = '';
   let correctAnswer = '';
+  let isCorrect = false;
   
   const currentQ = questions[currentQuestion];
   const choices = currentQ.getElementsByTagName("choice");
@@ -137,6 +138,7 @@ function evaluateAnswer() {
     if (opt.checked) {
       selected = true;
       userAnswer = choices[index].textContent;
+      isCorrect = choices[index].getAttribute("correct") === "yes";
       Array.from(choices).forEach(choice => {
         if (choice.getAttribute("correct") === "yes") {
           correctAnswer = choice.textContent;
@@ -149,6 +151,10 @@ function evaluateAnswer() {
     const lang = document.getElementById("language").value;
     alert(lang === 'es' ? "Selecciona una respuesta" : "Select an answer");
     return;
+  }
+
+  if (isCorrect) {
+    score++;
   }
 
   // Guardar la pregunta y las respuestas
