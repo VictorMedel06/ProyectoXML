@@ -237,7 +237,7 @@ button[type="submit"]:hover {
 
 /* Estilos para el fondo cuando se completa el quiz */
 body.quiz-completed {
-  background: url('/imagenes/fondofutbol.jpg') no-repeat center center fixed;
+  background: url('https://github.com/VictorMedel06/ProyectoXML/blob/main/imagenes/fondofutbol.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
